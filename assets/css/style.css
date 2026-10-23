@@ -7,4 +7,19 @@
     padding: 0;
     margin: 0;
     box-sizing: inherit;
+    font-family: 'Sixtyfour Convergence', sans-serif;
+}
+.site-header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 15px;
 }
